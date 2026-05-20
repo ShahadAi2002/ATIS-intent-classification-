@@ -1,6 +1,6 @@
 # ✈️ ATIS Intent Classification — Traditional vs LLM Approaches
 
-A comparative NLP study on the [ATIS (Airline Travel Information System)](https://huggingface.co/datasets/tuetschek/atis) dataset, benchmarking classical machine learning pipelines against a prompt-based LLM (Gemini 2.5 Flash) for multi-class intent classification.
+A comparative NLP study on the [ATIS (Airline Travel Information System)](https://huggingface.co/datasets/tuetschek/atis) dataset, benchmarking classical machine learning pipelines against a prompt-based LLM (Gemini 2.5 Flash) for intent classification.
 
 ---
 
