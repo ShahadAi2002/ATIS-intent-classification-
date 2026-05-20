@@ -4,7 +4,7 @@ A comparative NLP study on the [ATIS (Airline Travel Information System)](https:
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores how well traditional NLP approaches hold up against modern large language models on a structured intent classification task. We classify airline-related queries into 8 intent categories using three distinct modeling strategies.
 
@@ -13,7 +13,7 @@ This project explores how well traditional NLP approaches hold up against modern
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 nlp-intent-classification-atis/
@@ -25,7 +25,7 @@ nlp-intent-classification-atis/
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Loaded ATIS dataset via Hugging Face `datasets`
@@ -82,7 +82,7 @@ GEMINI_API_KEY = "your-api-key-here"
 
 ---
 
-## 📁 Files
+##  Files
 
 | File | Description |
 |---|---|
@@ -91,7 +91,7 @@ GEMINI_API_KEY = "your-api-key-here"
 
 ---
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 
 - TF-IDF + Random Forest is a strong and fast baseline for short, structured text
 - TF-IDF weighted Word2Vec pooling improves representational quality over raw averaging
@@ -100,6 +100,6 @@ GEMINI_API_KEY = "your-api-key-here"
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 [ATIS — Airline Travel Information System](https://huggingface.co/datasets/tuetschek/atis) via Hugging Face Datasets
